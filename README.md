@@ -89,7 +89,11 @@ AUTONOMOUS LOOP: Code > Typecheck > PR > Review
 
 <div align="center">
 
-`1,500+ contributions in 2026` · `90+ PRs on BERBARUS in 2 days` · `6 AI agents running in parallel`
+![Contributions](https://img.shields.io/github/commit-activity/y/only4bandz/berbarus?style=flat-square&label=commits%2Fyear&color=00ffaa)
+![PRs](https://img.shields.io/github/issues-pr-closed/only4bandz/berbarus?style=flat-square&label=PRs%20merged&color=00ffaa)
+![Lines](https://img.shields.io/tokei/lines/github/only4bandz/berbarus?style=flat-square&label=lines%20of%20code&color=00ffaa)
+
+`6 AI agents running in parallel`
 
 </div>
 
