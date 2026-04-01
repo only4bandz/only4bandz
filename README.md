@@ -63,21 +63,22 @@ DATA & SIGNALS    Python · TypeScript · Telegram Bots
 USER PROMPT
      |
      v
-+-----------------------------------------------+
-|  PHASE 0  PLANNING — Lead agent scans task    |
-+-----------------------------------------------+
-|  PHASE 1  EXECUTION — All agents work         |
-|           independently in parallel            |
-+-----------------------------------------------+
-|  PHASE 2  DEBATE — Agents cross-review,       |
-|           vote 1-10, argue positions           |
-+-----------------------------------------------+
-|  PHASE 3  SYNTHESIS — Chosen synthesizer      |
-|           writes the final output              |
-+-----------------------------------------------+
++------------------------------------------------+
+|  PHASE 0  PLANNING                             |
+|  Lead agent analyzes task, assigns roles       |
++------------------------------------------------+
+|  PHASE 1  EXECUTION                            |
+|  All agents work independently in parallel     |
++------------------------------------------------+
+|  PHASE 2  DEBATE                               |
+|  Agents cross-review, vote 1-10                |
++------------------------------------------------+
+|  PHASE 3  SYNTHESIS                            |
+|  Chosen synthesizer writes final output        |
++------------------------------------------------+
      |
      v
-AUTONOMOUS LOOP  Code > Typecheck > PR > Review > Iterate
+AUTONOMOUS LOOP: Code > Typecheck > PR > Review
 </pre>
 
 90+ PRs merged. 47 source files. 13,000+ lines. The agents build their own features.
