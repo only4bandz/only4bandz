@@ -1,10 +1,13 @@
 <div align="center">
+
+<pre>
 ██████╗ ███████╗██████╗ ██████╗  █████╗ ██████╗ ██╗   ██╗███████╗
 ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔════╝
 ██████╔╝█████╗  ██████╔╝██████╔╝███████║██████╔╝██║   ██║███████╗
 ██╔══██╗██╔══╝  ██╔══██╗██╔══██╗██╔══██║██╔══██╗██║   ██║╚════██║
 ██████╔╝███████╗██║  ██║██████╔╝██║  ██║██║  ██║╚██████╔╝███████║
 ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+</pre>
 
 **Three Heads. One Guardian.**
 
@@ -26,13 +29,18 @@ Last session: BERBARUS produced **5 pull requests autonomously** while I watched
 ---
 
 ### The Stack
+
+<pre>
 BERBARUS          Electron · React · TypeScript · SSE · Express
-Claude Opus · GPT-5 Codex · Grok · Gemini (via OpenRouter)
-Visual Workflow Editor (SYNAPSE) · Autonomous Loop Engine
+                  Claude Opus · GPT-5 Codex · Grok · Gemini
+                  Visual Workflow Editor (SYNAPSE) · Autonomous Loop
+
 TRADING INFRA     Rust · Solana · Polymarket · MT5
-Prop Firm Bots · Prediction Market Engines · Signal Systems
+                  Prop Firm Bots · Prediction Market Engines
+
 DATA & SIGNALS    Python · TypeScript · Telegram Bots
-Market Surveillance · Real-time Alerts
+                  Market Surveillance · Real-time Alerts
+</pre>
 
 ---
 
@@ -50,24 +58,27 @@ Market Surveillance · Real-time Alerts
 ---
 
 ### How BERBARUS Works
+
+<pre>
 USER PROMPT
-│
-▼
-┌─────────────────────────────────────────────┐
-│  PHASE 0: PLANNING — Lead agent scans task  │
-├─────────────────────────────────────────────┤
-│  PHASE 1: EXECUTION — All agents work       │
-│           independently in parallel         │
-├─────────────────────────────────────────────┤
-│  PHASE 2: DEBATE — Agents cross-review,     │
-│           vote 1-10, argue positions        │
-├─────────────────────────────────────────────┤
-│  PHASE 3: SYNTHESIS — Chosen synthesizer    │
-│           writes the final output           │
-└─────────────────────────────────────────────┘
-│
-▼
-AUTONOMOUS LOOP: Code → Typecheck → PR → Review → Iterate
+     │
+     ▼
+╔═══════════════════════════════════════════════╗
+║  PHASE 0  PLANNING — Lead agent scans task   ║
+╠═══════════════════════════════════════════════╣
+║  PHASE 1  EXECUTION — All agents work        ║
+║           independently in parallel           ║
+╠═══════════════════════════════════════════════╣
+║  PHASE 2  DEBATE — Agents cross-review,      ║
+║           vote 1-10, argue positions          ║
+╠═══════════════════════════════════════════════╣
+║  PHASE 3  SYNTHESIS — Chosen synthesizer     ║
+║           writes the final output             ║
+╚═══════════════════════════════════════════════╝
+     │
+     ▼
+AUTONOMOUS LOOP  Code → Typecheck → PR → Review → Iterate
+</pre>
 
 90+ PRs merged. 47 source files. 13,000+ lines. The agents build their own features.
 
