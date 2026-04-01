@@ -96,8 +96,6 @@ AUTONOMOUS LOOP  Code → Typecheck → PR → Review → Iterate
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=only4bandz&layout=compact&theme=dark&bg_color=0d1117&title_color=00ffaa&text_color=c9d1d9&border_color=21262d&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=only4bandz&theme=dark&background=0d1117&ring=00ffaa&fire=ff6b35&currStreakLabel=00ffaa&border=21262d&hide_border=true)
 
 </div>
