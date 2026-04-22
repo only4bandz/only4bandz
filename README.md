@@ -9,9 +9,7 @@
 ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 </pre>
 
-**Three Heads. One Guardian.**
-
-*Multi-LLM Orchestrator · Autonomous AI Agents · Visual Workflows*
+Multi-LLM Orchestrator — AI agents that deliberate, debate, and ship code autonomously. Four Minds, One Verdict.
 
 [![GitHub](https://img.shields.io/badge/1,500+_contributions-2026-00ffaa?style=flat-square&logo=github&logoColor=white)](https://github.com/only4bandz)
 [![Status](https://img.shields.io/badge/status-building_nonstop-ff4444?style=flat-square)](https://github.com/only4bandz/berbarus)
