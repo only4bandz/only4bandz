@@ -20,7 +20,7 @@ Multi-LLM Orchestrator — AI agents that deliberate, debate, and ship code auto
 
 ### What I Build
 
-I build systems where **AI agents collaborate autonomously** — debating, reviewing each other's code, and shipping PRs without human intervention. My flagship project [**BERBARUS**](https://github.com/only4bandz/berbarus) is a desktop app that orchestrates 6+ LLMs through a structured deliberation protocol. The agents don't just answer questions — they argue, converge, implement, and self-improve in a loop.
+I build systems where **AI agents collaborate autonomously** — debating, reviewing each other's code, and shipping PRs without human intervention. My flagship project [**BERBARUS**](https://github.com/only4bandz/berbarus) is a desktop app that orchestrates multiple LLMs through a structured deliberation protocol — 4 agents by default (Claude, GPT, Grok, Gemini), add any model in one click via API key or OpenRouter. The agents don't just answer questions — they argue, converge, implement, and self-improve in a loop.
 
 Last session: BERBARUS produced **5 pull requests autonomously** while I watched. The agents deliberated, wrote code, ran typechecks, did code reviews with APPROVE/REVISE votes, and pushed to GitHub. No human touched the keyboard.
 
@@ -79,7 +79,7 @@ USER PROMPT
 AUTONOMOUS LOOP: Code > Typecheck > PR > Review
 </pre>
 
-90+ PRs merged. 47 source files. 13,000+ lines. The agents build their own features.
+220+ PRs merged. 50+ source files. 15,000+ lines. The agents build their own features.
 
 ---
 
@@ -91,7 +91,7 @@ AUTONOMOUS LOOP: Code > Typecheck > PR > Review
 ![PRs](https://img.shields.io/github/issues-pr-closed/only4bandz/berbarus?style=flat-square&label=PRs%20merged&color=00ffaa)
 ![Lines](https://img.shields.io/tokei/lines/github/only4bandz/berbarus?style=flat-square&label=lines%20of%20code&color=00ffaa)
 
-`6 AI agents running in parallel`
+`4 AI agents by default · add more in one click`
 
 </div>
 
@@ -107,7 +107,7 @@ AUTONOMOUS LOOP: Code > Typecheck > PR > Review
 
 <div align="center">
 
-*The future isn't one AI answering your question. It's six AIs arguing about it until they get it right.*
+*The future isn't one AI answering your question. It's many minds arguing until they get it right.*
 
 **[squeezehunter.io](https://www.squeezehunter.io)**
 
