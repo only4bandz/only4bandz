@@ -10,6 +10,8 @@
 </pre>
 
 Multi-LLM Orchestrator — AI agents that deliberate, debate, and ship code autonomously. Four Minds, One Verdict.
+<img width="2232" height="1239" alt="BERBARUS-04-18-2026_03_22_PM" src="https://github.com/user-attachments/assets/2138b580-57ec-4b54-9e9b-3f5f7ec57a2f" />
+
 
 [![GitHub](https://img.shields.io/badge/1,500+_contributions-2026-00ffaa?style=flat-square&logo=github&logoColor=white)](https://github.com/only4bandz)
 [![Status](https://img.shields.io/badge/status-building_nonstop-ff4444?style=flat-square)](https://github.com/only4bandz/berbarus)
