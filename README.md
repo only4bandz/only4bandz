@@ -116,6 +116,6 @@ BERBARUS flagship:  149 source files · ~50,000 lines · 384 commits in 2026
 **The future isn't one AI answering your question.**
 **It's many minds arguing until they get it right.**
 
-[@Berbarus_ai](https://x.com/Berbarus_ai) · [squeezehunter.io](https://squeezehunter.io)
+[@Berbarus_ai](https://x.com/Berbarus_ai) 
 
 </div>
