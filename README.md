@@ -18,7 +18,9 @@ Multi-LLM Orchestrator — AI agents that deliberate, debate, and ship code auto
 </div>
 
 ---
-<img width="2232" height="1239" alt="BERBARUS-04-18-2026_03_22_PM" src="https://github.com/user-attachments/assets/fd86cb83-4da9-4bcf-aafa-97333574f75f" />
+
+<img width="3427" height="1245" alt="BERBARUS-06-17-2026_10_20_AM" src="https://github.com/user-attachments/assets/c366445f-9f9e-452c-b7f6-5683773d52b3" />
+
 
 
 ### What I Build
