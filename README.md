@@ -1,68 +1,53 @@
-<div align="center">
-
-<pre>
+```
 ██████╗ ███████╗██████╗ ██████╗  █████╗ ██████╗ ██╗   ██╗███████╗
 ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔════╝
 ██████╔╝█████╗  ██████╔╝██████╔╝███████║██████╔╝██║   ██║███████╗
 ██╔══██╗██╔══╝  ██╔══██╗██╔══██╗██╔══██║██╔══██╗██║   ██║╚════██║
 ██████╔╝███████╗██║  ██║██████╔╝██║  ██║██║  ██║╚██████╔╝███████║
 ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-</pre>
+```
 
-Multi-LLM Orchestrator — AI agents that deliberate, debate, and ship code autonomously. Four Minds, One Verdict.
+<div align="center">
 
+### Multi-LLM Orchestrator — AI agents that deliberate, debate, and ship code autonomously.
 
-[![GitHub](https://img.shields.io/badge/1,500+_contributions-2026-00ffaa?style=flat-square&logo=github&logoColor=white)](https://github.com/only4bandz)
-[![Status](https://img.shields.io/badge/status-building_nonstop-ff4444?style=flat-square)](https://github.com/only4bandz/berbarus)
+**FOUR MINDS · ONE VERDICT.**
+
+[![Follow on X](https://img.shields.io/badge/follow-%40Berbarus__ai-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Berbarus_ai)
+[![Launch](https://img.shields.io/badge/launch-2026-19E3FF?style=for-the-badge)](https://x.com/Berbarus_ai)
+[![Status](https://img.shields.io/badge/status-building_nonstop-FF4444?style=for-the-badge)](https://x.com/Berbarus_ai)
+![Contributions](https://img.shields.io/badge/contributions-1%2C500%2B%20in%202026-22C55E?style=for-the-badge)
 
 </div>
 
 ---
 
-<img width="3427" height="1245" alt="BERBARUS-06-17-2026_10_20_AM" src="https://github.com/user-attachments/assets/c366445f-9f9e-452c-b7f6-5683773d52b3" />
+## 🚀 BERBARUS launches in 2026 — get there first
 
+The agents write their own build logs. Follow now and watch them ship in real time.
 
-
-### What I Build
-
-I build systems where **AI agents collaborate autonomously** — debating, reviewing each other's code, and shipping PRs without human intervention. My flagship project [**BERBARUS**](https://github.com/only4bandz/berbarus) is a desktop app that orchestrates multiple LLMs through a structured deliberation protocol — 4 agents by default (Claude, GPT, Grok, Gemini), add any model in one click via API key or OpenRouter. The agents don't just answer questions — they argue, converge, implement, and self-improve in a loop.
-
-Last session: BERBARUS produced **5 pull requests autonomously** while I watched. The agents deliberated, wrote code, ran typechecks, did code reviews with APPROVE/REVISE votes, and pushed to GitHub. No human touched the keyboard.
+- **X — [@Berbarus_ai](https://x.com/Berbarus_ai)** → dev updates and PR summaries, posted by the agents themselves
+- **GitHub** → hit **Follow** ↑ to catch the public release the moment it drops
 
 ---
 
-### The Stack
+## What I Build
 
-<pre>
-BERBARUS          Electron · React · TypeScript · SSE · Express
-                  Claude Opus · GPT-5 Codex · Grok · Gemini
-                  Visual Workflow Editor (SYNAPSE) · Autonomous Loop
+I build systems where **AI agents collaborate autonomously** — debating, reviewing each other's code, and shipping PRs without human intervention.
 
-TRADING INFRA     Rust · Solana · Polymarket · MT5
-                  Prop Firm Bots · Prediction Market Engines
+My flagship project **BERBARUS** is a desktop app that orchestrates multiple LLMs through a structured deliberation protocol — **4 agents by default (Claude, GPT, Grok, Gemini)**, add any model in one click via API key or OpenRouter. The agents don't just answer questions — they argue, converge, implement, and self-improve in a loop.
 
-DATA & SIGNALS    Python · TypeScript · Telegram Bots
-                  Market Surveillance · Real-time Alerts
-</pre>
+> Last session, BERBARUS produced **5 pull requests autonomously** while I watched. The agents deliberated, wrote code, ran typechecks, voted APPROVE/REVISE on reviews, and pushed to GitHub. **No human touched the keyboard.**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c366445f-9f9e-452c-b7f6-5683773d52b3" alt="BERBARUS — multi-agent deliberation UI" width="100%">
+</div>
 
 ---
 
-### Active Projects
+## How BERBARUS Works
 
-| Project | What it does | Stack |
-|:--------|:-------------|:------|
-| **BERBARUS** | Multi-LLM orchestrator — AI agents that deliberate, code, and ship autonomously | `TypeScript` `Electron` `React` |
-| **SqueezeHunter** | Advanced market analysis & signal platform | `TypeScript` |
-| **ReversalMaster** | Forex/indices prop firm trading bot (MT5) | `TypeScript` `Python` |
-| **polaris-engine** | Prediction market execution engine | `Rust` |
-| **polymarket-bot** | Automated Polymarket trading | `Rust` |
-| **pumpfun2** | Solana trading bot | `TypeScript` |
-
----
-
-### How BERBARUS Works
-
-<pre>
+```
 USER PROMPT
      |
      v
@@ -81,39 +66,56 @@ USER PROMPT
 +------------------------------------------------+
      |
      v
-AUTONOMOUS LOOP: Code > Typecheck > PR > Review
-</pre>
-
-220+ PRs merged. 50+ source files. 15,000+ lines. The agents build their own features.
+AUTONOMOUS LOOP:  Code  >  Typecheck  >  PR  >  Review
+```
 
 ---
 
-### Numbers
+## The Stack
 
-<div align="center">
+```
+BERBARUS          Electron · React · TypeScript · SSE · Express
+                  Claude Opus · GPT-5 Codex · Grok · Gemini
+                  Visual Workflow Editor (SYNAPSE) · Autonomous Loop
 
-![Contributions](https://img.shields.io/github/commit-activity/y/only4bandz/berbarus?style=flat-square&label=commits%2Fyear&color=00ffaa)
-![PRs](https://img.shields.io/github/issues-pr-closed/only4bandz/berbarus?style=flat-square&label=PRs%20merged&color=00ffaa)
-![Lines](https://img.shields.io/tokei/lines/github/only4bandz/berbarus?style=flat-square&label=lines%20of%20code&color=00ffaa)
+TRADING INFRA     Rust · Solana · Polymarket · MT5
+                  Prop Firm Bots · Prediction Market Engines
 
-`4 AI agents by default · add more in one click`
+DATA & SIGNALS    Python · TypeScript · Telegram Bots
+                  Market Surveillance · Real-time Alerts
+```
 
-</div>
+---
+
+## Active Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **BERBARUS** | Multi-LLM orchestrator — AI agents that deliberate, code, and ship autonomously | `TypeScript` `Electron` `React` |
+| **SqueezeHunter** | Advanced market analysis & signal platform | `TypeScript` |
+| **ReversalMaster** | Forex / indices prop firm trading bot (MT5) | `TypeScript` `Python` |
+| **polaris-engine** | Prediction market execution engine | `Rust` |
+| **polymarket-bot** | Automated Polymarket trading | `Rust` |
+| **pumpfun2** | Solana trading bot | `TypeScript` |
+
+---
+
+## By the Numbers
+
+```
+1,500+ contributions in 2026     622 PRs merged across 14 repos
+4 AI agents by default           +1 more in a single click
+
+BERBARUS flagship:  149 source files · ~50,000 lines · 384 commits in 2026
+```
 
 ---
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=only4bandz&theme=dark&background=0d1117&ring=00ffaa&fire=ff6b35&currStreakLabel=00ffaa&border=21262d&hide_border=true)
+**The future isn't one AI answering your question.**
+**It's many minds arguing until they get it right.**
 
-</div>
-
----
-
-<div align="center">
-
-*The future isn't one AI answering your question. It's many minds arguing until they get it right.*
-
-**[squeezehunter.io](https://www.squeezehunter.io)**
+[@Berbarus_ai](https://x.com/Berbarus_ai) · [squeezehunter.io](https://squeezehunter.io)
 
 </div>
