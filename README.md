@@ -109,6 +109,12 @@ DATA & SIGNALS    Python · TypeScript · Telegram Bots
 BERBARUS flagship:  149 source files · ~50,000 lines · 384 commits in 2026
 ```
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=only4bandz&theme=dark&background=0d1117&ring=00ffaa&fire=ff6b35&currStreakLabel=00ffaa&sideLabels=c9d1d9&dates=8b949e&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
 ---
 
 <div align="center">
