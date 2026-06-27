@@ -108,7 +108,7 @@ DATA & SIGNALS    Python · TypeScript · Telegram Bots
 1,500+ contributions in 2026     622 PRs merged across 14 repos
 4 AI agents by default           +1 more in a single click
 
-BERBARUS flagship:  149 source files · ~50,000 lines · 384 commits in 2026
+BERBARUS flagship:  198 source files · ~50,000 lines · 500+ commits in 2026
 ```
 
 <div align="center">
