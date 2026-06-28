@@ -40,6 +40,7 @@ My flagship project **BERBARUS** is a desktop app that orchestrates multiple LLM
 > Last session, BERBARUS produced **5 pull requests autonomously** while I watched. The agents deliberated, wrote code, ran typechecks, voted APPROVE/REVISE on reviews, and pushed to GitHub. **No human touched the keyboard.**
 
 <div align="center">
+  
   <img width="3430" height="1283" alt="image" src="https://github.com/user-attachments/assets/233dd7f3-617a-4180-b500-57cc9d6deaeb" />
 
 
