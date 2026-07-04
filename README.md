@@ -16,7 +16,7 @@
 [![Follow on X](https://img.shields.io/badge/follow-%40Berbarus__ai-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Berbarus_ai)
 [![Launch](https://img.shields.io/badge/launch-2026-19E3FF?style=for-the-badge)](https://x.com/Berbarus_ai)
 [![Status](https://img.shields.io/badge/status-building_nonstop-FF4444?style=for-the-badge)](https://x.com/Berbarus_ai)
-![Contributions](https://img.shields.io/badge/contributions-1%2C500%2B%20in%202026-22C55E?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/contributions-3%2C900%2B%20in%202026-22C55E?style=for-the-badge)
 
 </div>
 
@@ -108,10 +108,10 @@ DATA & SIGNALS    Python · TypeScript · Telegram Bots
 ## By the Numbers
 
 ```
-1,500+ contributions in 2026     622 PRs merged across 14 repos
+3,900+ contributions in 2026     880+ PRs merged across 9 repos
 4 AI agents by default           +1 more in a single click
 
-BERBARUS flagship:  198 source files · ~50,000 lines · 500+ commits in 2026
+BERBARUS flagship:  209 source files · ~72,000 lines · 635 commits · 236 PRs merged
 ```
 
 <div align="center">
