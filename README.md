@@ -95,7 +95,9 @@ DATA & SIGNALS    Python · TypeScript · Telegram Bots
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **BERBARUS** | Multi-LLM orchestrator — AI agents that deliberate, code, and ship autonomously | `TypeScript` `Electron` `React` |
-| **SqueezeHunter** | Advanced market analysis & signal platform | `TypeScript` |
+| **BastionVault** | Zero-knowledge password manager — client-side encryption (Argon2id, XChaCha20-Poly1305), audited crypto core compiled to WASM, E2E messaging with Signal-style safety numbers | `Rust` `WASM` `React` |
+| **SqueezeHunter** | Crypto market intelligence SaaS — 16 datasets merged into one CDN-served snapshot, Stripe billing, AI signal analysis, Telegram bot | `TypeScript` `Fastify` `PostgreSQL` |
+| **AURA** | Bilingual AI voice agent on a real phone line — inbound calls & SMS with mid-conversation language switching, audio-reactive 3D orb interface | `ElevenLabs` `Twilio` `Next.js` |
 | **ReversalMaster** | Forex / indices prop firm trading bot (MT5) | `TypeScript` `Python` |
 | **polaris-engine** | Prediction market execution engine | `Rust` |
 | **polymarket-bot** | Automated Polymarket trading | `Rust` |
