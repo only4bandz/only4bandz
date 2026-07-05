@@ -1,5 +1,6 @@
   ```
-<img width="4752" height="1188" alt="berbarus_cover_ultrahd" src="https://github.com/user-attachments/assets/931c08f0-9d18-4187-b1b9-b00a6ea27145" />
+<img width="4752" height="1188" alt="berbarus_cover_ultrahd" src="https://github.com/user-attachments/assets/c129f810-3db4-42a1-bca1-d0a0ffcc16bd" />
+
 
   ```
                                   
