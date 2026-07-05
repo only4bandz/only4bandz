@@ -1,9 +1,7 @@
-  ```
-<img width="4752" height="1188" alt="berbarus_cover_ultrahd" src="https://github.com/user-attachments/assets/c129f810-3db4-42a1-bca1-d0a0ffcc16bd" />
+<div align="center">
+  <img src="assets/berbarus-banner.png" alt="BERBARUS — Multi-LLM Orchestrator · Four Minds · One Verdict" width="100%" />
+</div>
 
-
-  ```
-                                  
 <div align="center">
 
 ### Multi-LLM Orchestrator — AI agents that deliberate, debate, and ship code autonomously.
