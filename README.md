@@ -4,94 +4,125 @@
 
 <div align="center">
 
-<p><strong>Local-first multi-model deliberation. They argue. You authorize.</strong></p>
+### Multi-LLM Orchestrator — AI agents that deliberate, debate, and ship code autonomously.
 
 **FOUR MINDS · ONE VERDICT.**
 
 [![Follow on X](https://img.shields.io/badge/follow-%40Berbarus__ai-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Berbarus_ai)
-![BERBARUS status](https://img.shields.io/badge/BERBARUS-pre--release-19E3FF?style=for-the-badge)
+[![Launch](https://img.shields.io/badge/launch-2026-19E3FF?style=for-the-badge)](https://x.com/Berbarus_ai)
+[![Status](https://img.shields.io/badge/status-building_nonstop-FF4444?style=for-the-badge)](https://x.com/Berbarus_ai)
+![Contributions](https://img.shields.io/badge/contributions-3%2C900%2B%20in%202026-22C55E?style=for-the-badge)
 
 </div>
+
+---
+
+## 🚀 BERBARUS launches in 2026 — get there first
+
+The agents write their own build logs. Follow now and watch them ship in real time. 
+
+- **X — [@Berbarus_ai](https://x.com/Berbarus_ai)** → dev updates and PR summaries, posted by the agents themselves
+- **GitHub** → hit **Follow** ↑ to catch the public release the moment it drops
 
 ---
 
 ## What I Build
 
-I build operator-controlled systems for **multi-agent reasoning, durable workflows, market infrastructure, and real-time signals**. My current focus is **BERBARUS**, a local-first desktop workspace that coordinates GPT, Claude, Grok, Gemini, and custom OpenRouter models through a structured deliberation protocol.
+I build systems where **AI agents collaborate autonomously** — debating, reviewing each other's code, and shipping PRs without human intervention.
 
-The goal is not to collect more model output. It is to make disagreement useful: assign clear roles, execute in parallel, cross-review the work, measure convergence, and produce one accountable result.
+My flagship project **BERBARUS** is a desktop app that orchestrates multiple LLMs through a structured deliberation protocol — **4 agents by default (Claude, GPT, Grok, Gemini)**, add any model in one click via API key or OpenRouter. The agents don't just answer questions — they argue, converge, implement, and self-improve in a loop.
 
-## Current Focus: BERBARUS
-
-BERBARUS combines multi-model deliberation, workflow orchestration, repository-aware tooling, and content operations in one desktop application.
-
-| Surface | Purpose |
-| --- | --- |
-| **Deliberate** | Plan a task, run specialized agents in parallel, cross-review their work, and synthesize a final result |
-| **Hydra + Synapse** | Validate, visualize, and execute durable DAG workflows with deadlines, cancellation, receipts, and cost controls |
-| **BERBARUS Code** | Work with repository context, model-assisted reviews, diffs, evidence, and a human-gated terminal |
-| **Creators + Labs** | Develop prompts, ideas, skills, workflows, and bounded long-running agent configurations |
-| **Media Center** | Draft, adapt, render, schedule, and explicitly publish content; app review, account-type, paid-access, and public-media requirements vary by platform, and TikTok supports draft delivery only |
-
-> [!IMPORTANT]
-> BERBARUS is pre-release software. Human gates fail closed, and sensitive operations require explicit operator authorization. Model-initiated source-tree writes and unattended terminal execution are currently disabled.
+> Last session, BERBARUS produced **5 pull requests autonomously** while I watched. The agents deliberated, wrote code, ran typechecks, voted APPROVE/REVISE on reviews, and pushed to GitHub. **No human touched the keyboard.**
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c366445f-9f9e-452c-b7f6-5683773d52b3" alt="BERBARUS multi-agent deliberation interface" width="100%">
+  
+  <img width="3427" height="1245" alt="berbarus_all_agents_hello_1" src="https://github.com/user-attachments/assets/a719c7e4-f891-401b-bec2-c6f052316ed4" />
+
+
+
 </div>
 
-## The Deliberation Protocol
+---
 
-```text
-Operator prompt
-      |
-      v
-Plan and assign scoped roles
-      |
-      v
-Execute independent drafts in parallel
-      |
-      v
-Cross-review, score, and resolve disagreements
-      |
-      v
-Synthesize one final result
-      |
-      v
-Persist the debrief, cost record, and evidence
+## How BERBARUS Works
+
+```
+USER PROMPT
+     |
+     v
++------------------------------------------------+
+|  PHASE 0  PLANNING                             |
+|  Lead agent analyzes task, assigns roles       |
++------------------------------------------------+
+|  PHASE 1  EXECUTION                            |
+|  All agents work independently in parallel     |
++------------------------------------------------+
+|  PHASE 2  DEBATE                               |
+|  Agents cross-review, vote 1-10                |
++------------------------------------------------+
+|  PHASE 3  SYNTHESIS                            |
+|  Chosen synthesizer writes final output        |
++------------------------------------------------+
+     |
+     v
+AUTONOMOUS LOOP:  Code  >  Typecheck  >  PR  >  Review
 ```
 
-One failed provider does not automatically discard the other agents' work. Runs are bounded by explicit context, cost, timeout, cancellation, and authorization controls.
+---
 
-## Engineering Focus
+## The Stack
 
-| Area | Technologies and concerns |
-| --- | --- |
-| **Agent systems** | TypeScript, Electron, React, Express, SSE, multi-provider model routing |
-| **Workflow runtimes** | DAG validation, parallel execution, durable state, cancellation, budgets, and receipts |
-| **Local-first security** | Loopback-bound APIs and execution surfaces by default, explicit opt-in for limited remote Code access, encrypted credentials, and bounded repository access |
-| **Trading infrastructure** | Rust, Python, TypeScript, Solana, Polymarket, and MT5 |
-| **Signals and automation** | Market surveillance, real-time alerts, and Telegram-based operations |
+```
+BERBARUS          Electron · React · TypeScript · SSE · Express
+                  Claude Opus · GPT-5 Codex · Grok · Gemini
+                  Visual Workflow Editor (SYNAPSE) · Autonomous Loop
 
-## GitHub Activity
+TRADING INFRA     Rust · Solana · Polymarket · MT5
+                  Prop Firm Bots · Prediction Market Engines
+
+DATA & SIGNALS    Python · TypeScript · Telegram Bots
+                  Market Surveillance · Real-time Alerts
+```
+
+---
+
+## Active Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **BERBARUS** | Multi-LLM orchestrator — AI agents that deliberate, code, and ship autonomously | `TypeScript` `Electron` `React` |
+| **BastionVault** | Zero-knowledge password manager — client-side encryption (Argon2id, XChaCha20-Poly1305), audited crypto core compiled to WASM, E2E messaging with Signal-style safety numbers | `Rust` `WASM` `React` |
+| **SqueezeHunter** | Crypto market intelligence SaaS — 16 datasets merged into one CDN-served snapshot, Stripe billing, AI signal analysis, Telegram bot | `TypeScript` `Fastify` `PostgreSQL` |
+| **AURA** | Bilingual AI voice agent on a real phone line — inbound calls & SMS with mid-conversation language switching, audio-reactive 3D orb interface | `ElevenLabs` `Twilio` `Next.js` |
+| **ReversalMaster** | Forex / indices prop firm trading bot (MT5) | `TypeScript` `Python` |
+| **polaris-engine** | Prediction market execution engine | `Rust` |
+| **polymarket-bot** | Automated Polymarket trading | `Rust` |
+| **pumpfun2** | Solana trading bot | `TypeScript` |
+
+---
+
+## By the Numbers
+
+```
+3,900+ contributions in 2026     880+ PRs merged across 9 repos
+4 AI agents by default           +1 more in a single click
+
+BERBARUS flagship:  209 source files · ~72,000 lines · 635 commits · 236 PRs merged
+```
 
 <div align="center">
 
-[![Total GitHub contributions in 2026](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fonly4bandz%3Fy%3D2026&query=%24.total.%5B%222026%22%5D&label=total%20contributions%20%C2%B7%202026&style=for-the-badge&logo=github&color=22C55E&cacheSeconds=3600)](https://github.com/only4bandz?tab=overview&from=2026-01-01&to=2026-12-31)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=only4bandz&theme=dark&background=0d1117&ring=00ffaa&fire=ff6b35&currStreakLabel=00ffaa&sideLabels=c9d1d9&dates=8b949e&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-The counter covers the **2026 calendar year**. During 2026, it is the live total from January 1 through today; after year-end, it remains the final 2026 total.
-
-## Connect
-
-- Follow **[@Berbarus_ai](https://x.com/Berbarus_ai)** for BERBARUS development updates.
-- Follow **[only4bandz on GitHub](https://github.com/only4bandz)** for future public releases and technical work.
 
 ---
 
 <div align="center">
 
-**The future is not one AI answering your question.**<br>**It is many minds arguing until they converge on a reviewable verdict.**
+**The future isn't one AI answering your question.**
+**It's many minds arguing until they get it right.**
+
+[@Berbarus_ai](https://x.com/Berbarus_ai) 
 
 </div>
