@@ -1,6 +1,8 @@
 <div align="center">
+  <img src="assets/berbarus-banner.png" alt="BERBARUS — Multi-LLM Orchestrator · Four Minds · One Verdict" width="100%" />
+</div>
 
-<h1>BERBARUS</h1>
+<div align="center">
 
 <p><strong>Local-first multi-model deliberation. They argue. You authorize.</strong></p>
 
