@@ -113,7 +113,7 @@ BERBARUS flagship:  277 source files · ~77,000 lines of TypeScript · 872 commi
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=only4bandz&theme=dark&background=0d1117&ring=00ffaa&fire=ff6b35&currStreakLabel=00ffaa&sideLabels=c9d1d9&dates=8b949e&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=only4bandz&starting_year=2026&theme=dark&background=0d1117&ring=00ffaa&fire=ff6b35&currStreakLabel=00ffaa&sideLabels=c9d1d9&dates=8b949e&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
