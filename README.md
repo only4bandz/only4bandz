@@ -36,7 +36,8 @@ My flagship project **BERBARUS** is a desktop app that orchestrates multiple LLM
 
 <div align="center">
   
-  <img alt="BERBARUS — 8 agents online, July 2026" src="assets/berbarus-ui-2026-07.png" width="100%" />
+  <img width="3427" height="1245" alt="berbarus_all_agents_hello_1" src="https://github.com/user-attachments/assets/f345ea90-8bd0-446a-b8d0-a1329fd9c2ca" />
+
 
 
 
