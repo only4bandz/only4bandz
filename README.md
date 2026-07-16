@@ -11,7 +11,7 @@
 [![Follow on X](https://img.shields.io/badge/follow-%40Berbarus__ai-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Berbarus_ai)
 [![Launch](https://img.shields.io/badge/launch-2026-19E3FF?style=for-the-badge)](https://x.com/Berbarus_ai)
 [![Status](https://img.shields.io/badge/status-building_nonstop-FF4444?style=for-the-badge)](https://x.com/Berbarus_ai)
-![Contributions](https://img.shields.io/badge/contributions-3%2C900%2B%20in%202026-22C55E?style=for-the-badge)
+[![Contributions in 2026](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fonly4bandz%3Fy%3D2026&query=%24.total.%5B%222026%22%5D&label=contributions%20in%202026&style=for-the-badge&logo=github&color=22C55E&cacheSeconds=3600)](https://github.com/only4bandz)
 
 </div>
 
@@ -36,7 +36,7 @@ My flagship project **BERBARUS** is a desktop app that orchestrates multiple LLM
 
 <div align="center">
   
-  <img width="3427" height="1245" alt="berbarus_all_agents_hello_1" src="https://github.com/user-attachments/assets/a719c7e4-f891-401b-bec2-c6f052316ed4" />
+  <img alt="BERBARUS — 8 agents online, July 2026" src="assets/berbarus-ui-2026-07.png" width="100%" />
 
 
 
@@ -104,10 +104,10 @@ DATA & SIGNALS    Python · TypeScript · Telegram Bots
 ## By the Numbers
 
 ```
-3,900+ contributions in 2026     880+ PRs merged across 9 repos
-4 AI agents by default           +1 more in a single click
+4,600+ contributions in 2026     460 PRs merged on the flagship alone
+4 AI agents by default           8 in the current fleet — add any model in one click
 
-BERBARUS flagship:  209 source files · ~72,000 lines · 635 commits · 236 PRs merged
+BERBARUS flagship:  277 source files · ~77,000 lines of TypeScript · 872 commits · 460 PRs merged
 ```
 
 <div align="center">
