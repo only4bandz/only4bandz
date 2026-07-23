@@ -26,7 +26,7 @@ The agents write their own build logs. Follow now and watch them ship in real ti
 
 ---
 
-## What I Build
+## What I Build 
 
 I build systems where **AI agents collaborate autonomously** — debating, reviewing each other's code, and shipping PRs without human intervention.
 
