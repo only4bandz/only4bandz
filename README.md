@@ -123,7 +123,6 @@ A collection of execution infrastructure, analysis tools, and research prototype
 | Project | Focus | Core technologies |
 | --- | --- | --- |
 | **MERIDIAN FX / ReversalMaster** | Forex research, backtesting, and MT5 trading workflows. | `Python` `MT5` |
-| **BBwick** | MT5 strategy runtime, offline optimization, and demo-account execution tooling. | `TypeScript` `Python` `MT5` |
 | **XAUUSD Structure Scanner** | Gold-market structure analysis and MT5 signal scanning. | `TypeScript` `MT5` |
 | **Atlas** | Swing-trading research and strategy tooling. | `Python` |
 | **ARC** | Prediction-market research and paper-trading experiments. | `Python` |
