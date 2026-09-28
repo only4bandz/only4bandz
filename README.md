@@ -113,7 +113,6 @@ Beyond BERBARUS, I build AI products and practical software for creators, busine
 | Project | Focus | Core technologies |
 | --- | --- | --- |
 | **LaunchPilot** | Local commerce planning prototype for product research, unit economics, scenario analysis, and paid-test planning. | `Next.js` `TypeScript` |
-| **TrendTrack Radar** | E-commerce research CLI that scores stores and advertising signals, tracks changes, and generates reports. | `Python` `TrendTrack API` |
 | **DAYZERO** | Browser-based zombie survival FPS prototype with procedural terrain, weather, enemy AI, and survival mechanics. | `JavaScript` `Three.js` |
 
 <details>
