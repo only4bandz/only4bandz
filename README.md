@@ -75,6 +75,7 @@ AUTONOMOUS LOOP:  Code  >  Typecheck  >  PR  >  Review
 
 ---
 
+
 ## Products & Platforms
 
 Beyond BERBARUS, I build AI products and practical software for creators, business operations, and market research — from the interface to the systems behind it.
