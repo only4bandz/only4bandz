@@ -14,6 +14,7 @@
 [![Contributions in 2026](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fonly4bandz%3Fy%3D2026&query=%24.total.%5B%222026%22%5D&label=contributions%20in%202026&style=for-the-badge&logo=github&color=22C55E&cacheSeconds=3600)](https://github.com/only4bandz)
 
 
+
 </div>
 
 --- 
