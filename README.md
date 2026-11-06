@@ -198,4 +198,11 @@ BERBARUS flagship:  277 source files · ~77,000 lines of TypeScript · 872 commi
 
 </div>
 
+<div align="center">
+
+<a href="https://serein.chat/">serein.chat</a>
+
+</div>
+
+
 
